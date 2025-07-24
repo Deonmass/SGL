@@ -1,0 +1,296 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "quotation": "Cotización",
+    "tracking": "Seguimiento",
+    "about": "Sobre Nosotros",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "language": "Idioma"
+  },
+  "home": {
+    "hero": {
+      "title": "Soluciones Logísticas Completas y Fiables",
+      "subtitle": "Su socio de confianza para todas sus necesidades de transporte, despacho de aduanas y logística",
+      "cta": "Solicitar Cotización"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "subtitle": "Soluciones logísticas integradas para satisfacer todas sus necesidades",
+      "airFreight": {
+        "title": "Carga Aérea",
+        "description": "Soluciones de transporte aéreo rápidas y fiables para sus mercancías urgentes en todo el mundo."
+      },
+      "seaFreight": {
+        "title": "Carga Marítima",
+        "description": "Transporte marítimo económico y seguro para su carga voluminosa o en contenedores."
+      },
+      "transport": {
+        "title": "Transporte Terrestre",
+        "description": "Servicios de transporte por carretera fiables y puntuales para sus entregas locales y regionales."
+      },
+      "warehousing": {
+        "title": "Almacenamiento",
+        "description": "Soluciones de almacenamiento seguras con gestión de inventario y distribución eficiente."
+      },
+      "moving": {
+        "title": "Mudanzas",
+        "description": "Servicios de mudanza personalizados para particulares y empresas, locales e internacionales."
+      },
+      "customs": {
+        "title": "Servicios Aduaneros",
+        "description": "Experiencia en despacho de aduanas para facilitar sus importaciones y exportaciones en pleno cumplimiento."
+      }
+    },
+    "about": {
+      "title": "SHIPPING GL",
+      "subtitle": "Su Socio Logístico de Confianza",
+      "description": "Desde nuestra creación, SHIPPING GL se ha comprometido a proporcionar servicios logísticos de primer nivel con integridad, fiabilidad y excelencia. Nuestro equipo de expertos dedicados trabaja incansablemente para garantizar que sus mercancías lleguen a su destino de manera segura y puntual.",
+      "cta": "Saber Más"
+    },
+    "testimonials": {
+      "title": "Lo Que Dicen Nuestros Clientes",
+      "subtitle": "Socios satisfechos en África y en todo el mundo",
+      "testimonial1": {
+        "text": "SHIPPING GL ha transformado nuestra cadena de suministro con su servicio excepcional y su experiencia en aduanas. Estamos impresionados por su eficiencia y profesionalismo.",
+        "author": "Jean Mukendi",
+        "position": "Director de Operaciones, MineTech DRC"
+      },
+      "testimonial2": {
+        "text": "Confiamos en SHIPPING GL para todas nuestras necesidades de carga marítima. Su equipo es receptivo, atento y siempre está listo para resolver desafíos logísticos complejos.",
+        "author": "Marie Diallo",
+        "position": "Gerente de Logística, Afri-Commerce"
+      },
+      "testimonial3": {
+        "text": "La experiencia de SHIPPING GL en despacho de aduanas nos ha ahorrado un tiempo y recursos considerables. Su conocimiento de las regulaciones locales es invaluable.",
+        "author": "David Nkosi",
+        "position": "CEO, Transaf Solutions"
+      }
+    },
+    "cta": {
+      "title": "¿Listo para optimizar su logística?",
+      "subtitle": "Contáctenos hoy para soluciones a medida adaptadas a sus necesidades específicas",
+      "button": "Contáctenos Ahora"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones logísticas completas para todas sus necesidades",
+    "airFreight": {
+      "title": "Carga Aérea",
+      "description": "Nuestro servicio de carga aérea ofrece tiempos de entrega rápidos y fiables para sus mercancías urgentes. Con nuestra red global de socios, garantizamos un manejo seguro y un transporte eficiente de su carga aérea.",
+      "features": [
+        "Envíos express internacionales",
+        "Seguimiento en tiempo real",
+        "Gestión de documentación aduanera",
+        "Manejo seguro de mercancías frágiles",
+        "Soluciones para cargas de todos los tamaños"
+      ]
+    },
+    "seaFreight": {
+      "title": "Carga Marítima",
+      "description": "Nuestro servicio de carga marítima ofrece soluciones económicas para el transporte de mercancías voluminosas. Ya sea que necesite un contenedor completo (FCL) o un grupaje (LCL), nuestra experiencia garantiza la seguridad y eficiencia de sus envíos marítimos.",
+      "features": [
+        "Servicios FCL y LCL",
+        "Despacho de aduanas de importación/exportación",
+        "Seguro marítimo",
+        "Seguimiento de contenedores",
+        "Coordinación puerto a puerto y puerta a puerta"
+      ]
+    },
+    "transport": {
+      "title": "Transporte Terrestre",
+      "description": "Nuestros servicios de transporte terrestre aseguran la entrega fiable y puntual de sus mercancías a nivel local y transfronterizo. Nuestra flota moderna y nuestros conductores experimentados garantizan la seguridad de sus bienes durante todo el trayecto.",
+      "features": [
+        "Transporte local y transfronterizo",
+        "Entregas programadas",
+        "Transporte de mercancías especiales",
+        "Seguimiento GPS de vehículos",
+        "Soluciones multimodales integradas"
+      ]
+    },
+    "warehousing": {
+      "title": "Almacenamiento",
+      "description": "Nuestras instalaciones de almacenamiento seguras ofrecen soluciones flexibles para almacenar sus mercancías. Con sistemas avanzados de gestión de inventario y equipos cualificados, aseguramos la protección y gestión eficiente de su inventario.",
+      "features": [
+        "Almacenamiento a corto y largo plazo",
+        "Gestión de inventario informatizada",
+        "Servicios de distribución",
+        "Preparación de pedidos",
+        "Instalaciones seguras y monitoreadas"
+      ]
+    },
+    "moving": {
+      "title": "Mudanzas",
+      "description": "Nuestros servicios de mudanza personalizados se encargan de todos los aspectos de su reubicación, ya sea local o internacional. Nuestro equipo profesional asegura el embalaje, transporte y desembalaje de sus pertenencias con el máximo cuidado.",
+      "features": [
+        "Mudanzas locales e internacionales",
+        "Embalaje y desembalaje profesional",
+        "Servicios de almacenamiento temporal",
+        "Manejo de objetos de valor",
+        "Seguro integral"
+      ]
+    },
+    "customs": {
+      "title": "Servicios Aduaneros",
+      "description": "Nuestra experiencia en despacho de aduanas le permite navegar fácilmente a través de las complejidades de las regulaciones aduaneras. Nuestros agentes de aduanas cualificados garantizan el cumplimiento y la eficiencia en sus procesos de importación y exportación.",
+      "features": [
+        "Despacho de aduanas de importación y exportación",
+        "Asesoramiento en clasificación arancelaria",
+        "Orientación sobre regulaciones comerciales",
+        "Representación ante autoridades aduaneras",
+        "Documentación completa y conforme"
+      ]
+    }
+  },
+  "quotation": {
+    "title": "Solicitar Cotización",
+    "subtitle": "Obtenga una cotización personalizada para sus necesidades logísticas",
+    "form": {
+      "personalInfo": "Información Personal",
+      "serviceInfo": "Detalles del Servicio",
+      "name": "Nombre Completo",
+      "company": "Empresa",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "serviceType": "Tipo de Servicio",
+      "origin": "Origen",
+      "destination": "Destino",
+      "cargoType": "Tipo de Carga",
+      "cargoWeight": "Peso (kg)",
+      "cargoVolume": "Volumen (m³)",
+      "specialRequirements": "Requisitos Especiales",
+      "submit": "Enviar Solicitud",
+      "success": "Su solicitud ha sido enviada con éxito. Nos pondremos en contacto con usted en breve.",
+      "error": "Se produjo un error. Por favor, inténtelo de nuevo."
+    }
+  },
+  "tracking": {
+    "title": "Seguimiento de Carga",
+    "subtitle": "Siga el estado y la ubicación de su envío en tiempo real",
+    "form": {
+      "trackingNumber": "Número de Seguimiento",
+      "search": "Buscar",
+      "placeholder": "Ingrese su número de seguimiento",
+      "noResults": "No se encontraron resultados para este número de seguimiento",
+      "error": "Se produjo un error. Por favor, inténtelo de nuevo."
+    },
+    "result": {
+      "status": "Estado",
+      "currentLocation": "Ubicación Actual",
+      "origin": "Origen",
+      "destination": "Destino",
+      "departureDate": "Fecha de Salida",
+      "estimatedArrival": "Llegada Estimada",
+      "lastUpdate": "Última Actualización",
+      "history": "Historial de Movimientos"
+    }
+  },
+  "about": {
+    "title": "Sobre SHIPPING GL",
+    "subtitle": "Su socio logístico de confianza en África y en todo el mundo",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "En SHIPPING GL, nuestra misión es proporcionar soluciones logísticas integradas de clase mundial que simplifiquen las operaciones comerciales de nuestros clientes. Nos comprometemos a ofrecer un servicio fiable, eficiente y personalizado que satisfaga perfectamente las necesidades específicas de cada cliente."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Nuestra visión es convertirnos en el socio logístico de referencia en África, reconocido por la excelencia de nuestros servicios, nuestra integridad y nuestra constante innovación en el campo de la logística y el comercio internacional."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "integrity": {
+        "title": "Integridad",
+        "description": "Nos adherimos a los más altos estándares éticos en todas nuestras interacciones comerciales."
+      },
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Nos esforzamos constantemente por mejorar nuestros servicios y superar las expectativas de nuestros clientes."
+      },
+      "reliability": {
+        "title": "Fiabilidad",
+        "description": "Cumplimos nuestras promesas y asumimos la responsabilidad de nuestras acciones."
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Buscamos continuamente nuevas formas de mejorar nuestros procesos y servicios."
+      },
+      "customerFocus": {
+        "title": "Enfoque al Cliente",
+        "description": "Colocamos las necesidades de nuestros clientes en el centro de todas nuestras decisiones."
+      }
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "description": "SHIPPING GL se enorgullece de su equipo diverso de profesionales experimentados en el campo de la logística, el transporte y las aduanas. Nuestro personal cualificado posee un conocimiento profundo de los mercados locales e internacionales, garantizando soluciones adaptadas a los desafíos específicos de cada región."
+    },
+    "history": {
+      "title": "Nuestra Historia",
+      "description": "Fundada con la visión de revolucionar el sector logístico en África, SHIPPING GL ha crecido para convertirse en un actor clave en la facilitación del comercio internacional. A lo largo de los años, hemos desarrollado una experiencia inigualable en la navegación de las complejidades del comercio africano y global, estableciendo asociaciones estratégicas que fortalecen nuestra capacidad para servir a nuestros clientes con excelencia."
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar Sesión",
+      "subtitle": "Acceda a su cuenta para gestionar sus envíos",
+      "email": "Correo Electrónico",
+      "password": "Contraseña",
+      "rememberMe": "Recordarme",
+      "forgotPassword": "¿Olvidó su contraseña?",
+      "submit": "Iniciar Sesión",
+      "noAccount": "¿No tiene una cuenta?",
+      "register": "Registrarse",
+      "error": "Credenciales incorrectas. Por favor, inténtelo de nuevo."
+    },
+    "register": {
+      "title": "Registrarse",
+      "subtitle": "Cree una cuenta para acceder a nuestros servicios completos",
+      "fullName": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "company": "Empresa (opcional)",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar Contraseña",
+      "terms": "Acepto los términos de uso",
+      "submit": "Registrarse",
+      "haveAccount": "¿Ya tiene una cuenta?",
+      "login": "Iniciar Sesión",
+      "error": "Se produjo un error. Por favor, inténtelo de nuevo."
+    }
+  },
+  "footer": {
+    "company": "Empresa",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "contact": "Contacto",
+    "careers": "Carreras",
+    "legal": "Legal",
+    "services": {
+      "title": "Servicios",
+      "airFreight": "Carga Aérea",
+      "seaFreight": "Carga Marítima",
+      "transport": "Transporte",
+      "warehousing": "Almacenamiento",
+      "moving": "Mudanzas",
+      "customs": "Servicios Aduaneros"
+    },
+    "resources": {
+      "title": "Recursos",
+      "tracking": "Seguimiento de Carga",
+      "quotation": "Solicitar Cotización",
+      "faq": "Preguntas Frecuentes",
+      "blog": "Blog",
+      "news": "Noticias"
+    },
+    "contact": {
+      "title": "Contacto",
+      "address": "123 Avenida Comercio, Kinshasa, RDC",
+      "phone": "+243 123 456 789",
+      "email": "info@shipping-gl.com",
+      "hours": "Lun-Vie: 8am-6pm"
+    },
+    "copyright": "© 2025 SHIPPING GL. Todos los derechos reservados.",
+    "socialMedia": "Redes Sociales"
+  }
+}
